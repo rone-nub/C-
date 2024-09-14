@@ -6,6 +6,7 @@ int main()
 	
 	   
 	*A=20; 
+	delete A;
 
 	cout<<*A<<endl;  
 
